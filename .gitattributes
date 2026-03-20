@@ -1,2 +1,0 @@
-data/FFSP/Matnet/unrelated_10000_problems_444_job100_2_10.pt filter=lfs diff=lfs merge=lfs -text
-data/FFSP/Matnet/unrelated_10000_problems_444_job50_2_10.pt filter=lfs diff=lfs merge=lfs -text
