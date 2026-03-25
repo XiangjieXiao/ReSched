@@ -158,7 +158,7 @@ During training, logs and model files are automatically saved under timestamped 
 
 The codebase mainly depends on `PyTorch` and a small set of scientific computing packages(`numpy`, `pandas`).
 
-Or-tools is a non-essential component, only used for baseline calculations; results for most datasets and benchmarks are already provided.
+Or-tools is a non-essential component, only used for baseline calculations; optimal or near-optimal solution for most datasets and benchmarks are already provided.
 
 
 - `torch == 2.3.1 (CUDA 12.1)`
